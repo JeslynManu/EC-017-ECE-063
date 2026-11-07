@@ -1,0 +1,4 @@
+branch_id,sku_code,reorder_quantity,status
+B03,R001,20,OPEN
+B05,C001,30,CLOSED
+B06,IC001,10,OPEN
